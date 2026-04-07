@@ -15,16 +15,6 @@ I develop SaaS products and AI-driven applications.
 
 ---
 
-## 🧩 Products
-
-### 🐹 HamTester
-Testing management platform for efficient QA and development workflow.
-
-### 🏢 Meta Works
-Business metaverse platform for communication and collaboration.
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
