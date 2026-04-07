@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ryotaro
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Building+SaaS+Products;Metaverse+Developer;AI+Driven+Engineer;Welcome+to+my+GitHub!&center=true&width=600&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Building+SaaS+Products;Welcome+to+my+GitHub!&center=true&width=600&height=50)
 
 ## 🇯🇵 自己紹介
 株式会社Rabbitlyの取締役・CTOです。
