@@ -32,8 +32,6 @@ Business metaverse platform for communication and collaboration.
 ![React](https://img.shields.io/badge/-React-blue)
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-green)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Laravel](https://img.shields.io/badge/-Laravel-red)
 
